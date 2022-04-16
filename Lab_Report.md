@@ -52,34 +52,33 @@ Image
 ### Methods
 
 i.	Participants
-a.	The participants in this study were mostly the same as those for the StoryMaps section, however this section uses entirely news articles. The articles were not chosen based off of intellectual merit, reporting integrity, or lack of bias. Any article covering the event is valuable to creating an overall picture of the event in how it was presented to the general public.  
+> The participants in this study were mostly the same as those for the StoryMaps section, however this section uses entirely news articles. The articles were not chosen based off of intellectual merit, reporting integrity, or lack of bias. Any article covering the event is valuable to creating an overall picture of the event in how it was presented to the general public.  
 ii.	Apparatus and Materials
-a.	Voyant Tools
-i.	Voyant Tools was the primary tool used in this section as it was organizing the data for study. The cirrus cloud, term trends, termsberry, and term links are all very useful parts of Voyant Tools. 
+> Voyant Tools
+> Voyant Tools was the primary tool used in this section as it was organizing the data for study. The cirrus cloud, term trends, termsberry, and term links are all very useful parts of Voyant Tools. 
 b.	News Articles
-i.	Any news articles covering the event were considered useful in this experiment as it is meant purely as an analysis of media focus and presentation to the general public. 
+> Any news articles covering the event were considered useful in this experiment as it is meant purely as an analysis of media focus and presentation to the general public. 
 iii.	Procedure
-a.	The first step for this experiment was to collect news articles that covered the event while it was happening. Wikipedia had compiled a timeline of the event, which was a good source for a larger selection of articles to access. Using this resource along with other articles sourced, a list was compiled to make inputting into Voyant Tools easier. 
-b.	The articles were then sorted by month in order to compartmentalize what topics were being covered at what time. In addition to making the topics easier to analyze, Voyant Tools was unable to handle a large volume of articles inputted at the same time.
+> The first step for this experiment was to collect news articles that covered the event while it was happening. Wikipedia had compiled a timeline of the event, which was a good source for a larger selection of articles to access. Using this resource along with other articles sourced, a list was compiled to make inputting into Voyant Tools easier. 
+> The articles were then sorted by month in order to compartmentalize what topics were being covered at what time. In addition to making the topics easier to analyze, Voyant Tools was unable to handle a large volume of articles inputted at the same time.
 
 
-link link link
 
 ### Results
 
-<strong>CONVOY BEGINNINGS</strong>
+**CONVOY BEGINNINGS**
 
 <iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?panels=corpusterms%2Creader%2Cdocumentterms%2Csummary%2Cbubblelines&corpus=6a4e1e0b0adb58e33a1cd24c4d5cb8fb'></iframe>
 
 The common themes of these articles are on ‘security’, ‘border’, ‘drivers’, ‘covid’, ‘mandate’, ‘U.S.’, and ‘vaccine’, shown by the generated cirrus word cloud. Through this cloud, the main issue at this point in time can be considered the covid vaccine mandates and truck drivers having issues at the border. In the terms trend block, the mentions of ‘U.S.’ has a heavy influence on one article but minimal in any of the other articles. ‘Security’ is relevant to both the covid vaccine mandate and the truck driver border issues. Additionally, the word cloud includes that ‘says’ is included 25 times and ‘said’ is included 24 times. This could mean references or quotes from the general public, government, or health officials are being used frequently in articles concerning the Freedom Convoy. 
 
-<strong>JANUARY</strong>
+**JANUARY**
 
 <iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?panels=cirrus%2Ctermsberry%2Cdocumentterms%2Cphrases%2Cbubblelines&corpus=8397fce78cd59043f5bac5083b5702d8'></iframe>
 
 For the month of January, the common themes of the articles are ‘Ottawa’, ‘police’, ‘convoy’, ‘downtown’, ‘protesters/protest’, and ‘continues’. ‘Said’ was included in the articles a total of 210 times, whereas ‘freedom’ was included 56 times. In the case of ‘said’, the term links connected the phrase primarily to ‘police’, ‘chief’, ‘city’, ‘Ottawa’, and ‘Sunday’. The implication is of most quotes are coming from the Ottawa Police and City of Ottawa. ‘Convoy’ finds its only connection with ‘Ottawa’. The comparatively low usage of ‘freedom’ within the articles implies that the representation of the Freedom Convoy is likely just as the Convoy. Alternatively, the usage of ‘freedom’ could be intentionally used sparingly to avoid conveying support. 
 
-<strong>FEBRUARY</strong>
+**FEBRUARY**
 
 <iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?panels=cirrus%2Ctermsberry%2Cdocumentterms%2Cdocuments%2Ccontexts&corpus=becb3ddefba528a0cbfeb854eac1e9b4'></iframe>
 

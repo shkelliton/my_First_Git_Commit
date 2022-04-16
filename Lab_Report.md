@@ -69,15 +69,19 @@ link link link
 
 <strong>CONVOY BEGINNINGS</strong>
 
+<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?panels=corpusterms%2Creader%2Cdocumentterms%2Csummary%2Cbubblelines&corpus=6a4e1e0b0adb58e33a1cd24c4d5cb8fb'></iframe>
+
 The common themes of these articles are on ‘security’, ‘border’, ‘drivers’, ‘covid’, ‘mandate’, ‘U.S.’, and ‘vaccine’, shown by the generated cirrus word cloud. Through this cloud, the main issue at this point in time can be considered the covid vaccine mandates and truck drivers having issues at the border. In the terms trend block, the mentions of ‘U.S.’ has a heavy influence on one article but minimal in any of the other articles. ‘Security’ is relevant to both the covid vaccine mandate and the truck driver border issues. Additionally, the word cloud includes that ‘says’ is included 25 times and ‘said’ is included 24 times. This could mean references or quotes from the general public, government, or health officials are being used frequently in articles concerning the Freedom Convoy. 
 
 <strong>JANUARY</strong>
 
-loadCorpus("6a4e1e0b0adb58e33a1cd24c4d5cb8fb").tool("",{"panels":"cirrus,reader,trends,summary,contexts"});
+<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?panels=cirrus%2Ctermsberry%2Cdocumentterms%2Cphrases%2Cbubblelines&corpus=8397fce78cd59043f5bac5083b5702d8'></iframe>
 
 For the month of January, the common themes of the articles are ‘Ottawa’, ‘police’, ‘convoy’, ‘downtown’, ‘protesters/protest’, and ‘continues’. ‘Said’ was included in the articles a total of 210 times, whereas ‘freedom’ was included 56 times. In the case of ‘said’, the term links connected the phrase primarily to ‘police’, ‘chief’, ‘city’, ‘Ottawa’, and ‘Sunday’. The implication is of most quotes are coming from the Ottawa Police and City of Ottawa. ‘Convoy’ finds its only connection with ‘Ottawa’. The comparatively low usage of ‘freedom’ within the articles implies that the representation of the Freedom Convoy is likely just as the Convoy. Alternatively, the usage of ‘freedom’ could be intentionally used sparingly to avoid conveying support. 
 
 <strong>FEBRUARY</strong>
+
+<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?panels=cirrus%2Ctermsberry%2Cdocumentterms%2Cdocuments%2Ccontexts&corpus=becb3ddefba528a0cbfeb854eac1e9b4'></iframe>
 
 For the month of January, the common themes of the articles are ‘police’, ‘Ottawa’, ‘protest/protesters’, ‘convoy’, ‘government’, and ‘Canada’. Once again, ‘said’ is featured at a high volume, coming in at 337 mentions. ‘Said’ finds connections with ‘Thursday’, ‘Police’, ‘health’, and ‘Ottawa’. Similarly to January, the quotes are likely coming from the Ottawa police, with the new implication being quotes possibly coming from health Canada. ‘Protestors’ and ‘Police’, representing the clashes that occurred between the Ottawa Police and Freedom Convoy Protesters. ‘Freedom’ appeared 57 times in the 39 articles and at too low a quantity to appear in the cirrus word cloud or the term links.
 

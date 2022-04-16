@@ -118,6 +118,6 @@ In The Dark Side of the Digital Humanities, the authors write that their critiqu
 
 ### References
 
-Chun, W. H. K., Grusin, R., Jagoda, P., & Raley, R. (2016). Debates in the Digital Humanities 2016: 38. The Dark Side of the digital humanities: Wendy Hui Kyong Chun, Richard Grusin, Patrick Jagoda, and Rita Raley. "38. The Dark Side of the Digital Humanities | Wendy Hui Kyong Chun, Richard Grusin, Patrick Jagoda, and Rita Raley" in "Debates in the Digital Humanities 2016" on Debates in the DH Manifold. Retrieved March 24, 2022, from https://dhdebates.gc.cuny.edu/read/untitled/section/ca35736b-0020-4ac6-9ce7-88c6e9ff1bba 
+>Chun, W. H. K., Grusin, R., Jagoda, P., & Raley, R. (2016). Debates in the Digital Humanities 2016: 38. The Dark Side of the digital humanities: Wendy Hui Kyong Chun, Richard Grusin, Patrick Jagoda, and Rita Raley. "38. The Dark Side of the Digital Humanities | Wendy Hui Kyong Chun, Richard Grusin, Patrick Jagoda, and Rita Raley" in "Debates in the Digital Humanities 2016" on Debates in the DH Manifold. Retrieved March 24, 2022, from https://dhdebates.gc.cuny.edu/read/untitled/section/ca35736b-0020-4ac6-9ce7-88c6e9ff1bba 
 
-Abbasi, M.-A., Chai, S.-K., Liu, H., & Sagoo, K. (2012). Real-World Behavior Analysis through a Social Media Lens. Citeserrx.ist.psu.edu. Retrieved March 24, 2022, from https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.5328&rep=rep1&type=pdf 
+>Abbasi, M.-A., Chai, S.-K., Liu, H., & Sagoo, K. (2012). Real-World Behavior Analysis through a Social Media Lens. Citeserrx.ist.psu.edu. Retrieved March 24, 2022, from https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.5328&rep=rep1&type=pdf 

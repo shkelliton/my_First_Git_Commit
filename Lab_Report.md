@@ -14,22 +14,33 @@ Observing an event from a social media lens can be useful for piecing together a
 ### Methods
 
 i.	Participants
-a.	Convoy participants
-i.	Many convoy participants used Twitter to encourage other participants, express anti-vaccine sentiments, and to disparage the Prime Minister Justin Trudeau. Videos of the convoy were also frequently posted on Twitter. The primary trending hashtag used by these participants was #TrudeauTyranny. 
-b.	Ottawa Residents & Critics of the Convoy
-i.	Ottawa Residents and Convoy Critics used Twitter to express frustration and distaste for convoy participants. The Ottawa residents and Convoy critics also posted videos and there was a high focus on “Ottawa Heroes” talking back to the Convoy. The primary trending hashtag used by these participants was #FluTruxKlan.
+>
+> **Convoy participants**
+>
+>	Many convoy participants used Twitter to encourage other participants, express anti-vaccine sentiments, and to disparage the Prime Minister Justin Trudeau. Videos of the convoy were also frequently posted on Twitter. The primary trending hashtag used by these participants was #TrudeauTyranny. 
+>
+> **Ottawa Residents & Critics of the Convoy**
+>	Ottawa Residents and Convoy Critics used Twitter to express frustration and distaste for convoy participants. The Ottawa residents and Convoy critics also posted videos and there was a high focus on “Ottawa Heroes” talking back to the Convoy. The primary trending hashtag used by these participants was #FluTruxKlan.
+>
 ii.	Apparatus and Materials
-a.	StoryMap
-i.	StoryMap was used to visualize incidents around the city and organize based on theme. One color was used for the Convoy participants and one for the “Ottawa Heroes”. The location tags were useful for showcasing where the Convoy originated and emphasize that some influences were not within Ontario. 
-b.	Twitter and Reddit
-i.	Twitter was the source for many of the videos included in the StoryMap. The subreddit r/Ottawa also contained many videos and discussion threads set up specifically for the Convoy situation.
-c.	News Articles
-i.	News articles were used in order to provide context from less biased sources than the Twitter hashtags. The direct links within StoryMaps to the news articles do not format quite as nicely as the Tweets, so images should be used as the slide content instead. 
+>
+> **StoryMaps**
+>	StoryMaps was used to visualize incidents around the city and organize based on theme. One color was used for the Convoy participants and one for the “Ottawa Heroes”. The location tags were useful for showcasing where the Convoy originated and emphasize that some influences were not within Ontario. 
+> **Twitter and Reddit**
+>
+>	Twitter was the source for many of the videos included in the StoryMap. The subreddit r/Ottawa also contained many videos and discussion threads set up specifically for the Convoy situation.
+>	News Articles
+>
+>	News articles were used in order to provide context from less biased sources than the Twitter hashtags. The direct links within StoryMaps to the news articles do not format quite as nicely as the Tweets, so images should be used as the slide content instead. 
+>
 iii.	Procedure
-a.	Social Media Events
-i.	Searching by date and within hashtags helped find the primary incidents reported from the Freedom Convoy’s time in Ottawa. Incidents are color coded and organized in groups.
-b.	Date and Locate
-i.	The slides were organized by date within the theme groups and, if possible, located on the map. The map is used to show the scope of the protests and the web of counter-protestors. Influence from outside of Ontario is also able to be shown and emphasized. The dates are included on each slide. 
+>
+>	Social Media Events
+>
+>	Searching by date and within hashtags helped find the primary incidents reported from the Freedom Convoy’s time in Ottawa. Incidents are color coded and organized in groups.
+>	Date and Locate
+>
+>	The slides were organized by date within the theme groups and, if possible, located on the map. The map is used to show the scope of the protests and the web of counter-protestors. Influence from outside of Ontario is also able to be shown and emphasized. The dates are included on each slide. 
 
 ### Results
 
@@ -60,6 +71,7 @@ ii.	Apparatus and Materials
 > Voyant Tools was the primary tool used in this section as it was organizing the data for study. The cirrus cloud, term trends, termsberry, and term links are all very useful parts of Voyant Tools. 
 >
 > **News Articles**
+>
 > Any news articles covering the event were considered useful in this experiment as it is meant purely as an analysis of media focus and presentation to the general public. 
 >
 iii.	Procedure

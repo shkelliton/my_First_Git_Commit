@@ -53,11 +53,15 @@ Image
 
 i.	Participants
 > The participants in this study were mostly the same as those for the StoryMaps section, however this section uses entirely news articles. The articles were not chosen based off of intellectual merit, reporting integrity, or lack of bias. Any article covering the event is valuable to creating an overall picture of the event in how it was presented to the general public.  
+>
 ii.	Apparatus and Materials
-> Voyant Tools
+> **Voyant Tools**
+>
 > Voyant Tools was the primary tool used in this section as it was organizing the data for study. The cirrus cloud, term trends, termsberry, and term links are all very useful parts of Voyant Tools. 
-b.	News Articles
+>
+> **News Articles**
 > Any news articles covering the event were considered useful in this experiment as it is meant purely as an analysis of media focus and presentation to the general public. 
+>
 iii.	Procedure
 > The first step for this experiment was to collect news articles that covered the event while it was happening. Wikipedia had compiled a timeline of the event, which was a good source for a larger selection of articles to access. Using this resource along with other articles sourced, a list was compiled to make inputting into Voyant Tools easier. 
 > The articles were then sorted by month in order to compartmentalize what topics were being covered at what time. In addition to making the topics easier to analyze, Voyant Tools was unable to handle a large volume of articles inputted at the same time.
